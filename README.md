@@ -1,4 +1,4 @@
-# Fork of official Solana repository to make tools compatibile for raspberry (arm64)
+# Fork of the official Solana repository to make tools compatibile for raspberry (arm64)
 
 <p align="center">
   <a href="https://solana.com">
