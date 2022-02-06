@@ -1,3 +1,5 @@
+# Fork of official Solana repository to make tools compatibile for raspberry (arm64)
+
 <p align="center">
   <a href="https://solana.com">
     <img alt="Solana" src="https://i.imgur.com/IKyzQ6T.png" width="250" />
